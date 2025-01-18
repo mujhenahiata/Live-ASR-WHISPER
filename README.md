@@ -1,4 +1,3 @@
-```markdown
 
 This project consists of a machine learning backend and a React frontend. Follow the steps below to set up and run both components.
 
