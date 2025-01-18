@@ -1,0 +1,8 @@
+WhisperLive/env/
+WhisperLive/envLinux/
+WhisperLive/faster-distil-whisper-large-v3/
+WhisperLive/faster-whisper-large-v3
+WhisperLive/trial.flac
+WhisperLive/.github/
+court_proto/node_modules/
+WhisperLive/whisper_model/

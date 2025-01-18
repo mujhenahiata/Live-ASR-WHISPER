@@ -1,0 +1,28 @@
+├── ./public
+│   ├── ./public/favicon.ico
+│   ├── ./public/index.html
+│   ├── ./public/logo192.png
+│   ├── ./public/logo512.png
+│   ├── ./public/manifest.json
+│   └── ./public/robots.txt
+├── ./src
+│   ├── ./src/App.css
+│   ├── ./src/App.js
+│   ├── ./src/App.test.js
+│   ├── ./src/components
+│   │   ├── ./src/components/Admin_dash.js
+│   │   ├── ./src/components/Case_form.js
+│   │   ├── ./src/components/Case_recordings.js
+│   │   ├── ./src/components/Collaborators.js
+│   │   ├── ./src/components/Judge_dash.js
+│   │   ├── ./src/components/Login_page.js
+│   │   ├── ./src/components/Roles.js
+│   │   ├── ./src/components/Signup_page.js
+│   │   ├── ./src/components/Stenographer.js
+│   │   └── ./src/components/Users.js
+│   ├── ./src/index.css
+│   ├── ./src/index.js
+│   ├── ./src/logo.svg
+│   ├── ./src/reportWebVitals.js
+│   └── ./src/setupTests.js
+└── ./tailwind.config.js
