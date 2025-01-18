@@ -1,18 +1,13 @@
 ```markdown
-# Project Setup Instructions
 
 This project consists of a machine learning backend and a React frontend. Follow the steps below to set up and run both components.
 
----
+Backend: WhisperLive
 
-## Backend: WhisperLive
-
-### Prerequisites
 - Python 3.8 or higher
 - Virtual environment tools (e.g., `venv`, `virtualenv`)
 - Internet connection for downloading dependencies and models
 
-### Setup Instructions
 
 1. **Navigate to the `WhisperLive` Directory:**
    ```bash
@@ -43,12 +38,6 @@ This project consists of a machine learning backend and a React frontend. Follow
    pip install git+https://github.com/huggingface/transformers
    pip install git+https://github.com/openai/whisper
    pip install git+https://github.com/makubacki/faster-whisper
-   ```
-
-   Then, download the specific model:
-   ```bash
-   from faster_whisper import Whisper
-   model = Whisper("https://huggingface.co/Systran/faster-whisper-large-v3")
    ```
 
 5. **Configure `start_backend.sh`:**
@@ -128,8 +117,5 @@ This project consists of a machine learning backend and a React frontend. Follow
 ---
 
 Enjoy working with the project! For any issues, feel free to raise them in the repository.
-```
-
----
 
 Let me know if you need further adjustments!
